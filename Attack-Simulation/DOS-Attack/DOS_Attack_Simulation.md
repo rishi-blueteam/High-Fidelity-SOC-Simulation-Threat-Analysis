@@ -17,8 +17,6 @@ The attacker uses a technique called a Slowloris attack. Instead of blasting the
 The public gateway server (built on a resilient architecture like Nginx) handles these slow connections easily. However, due to a critical configuration mistake, the proxy server does not wait to verify the web requests. It blindly passes these incomplete, slow-moving connection lines right through the perimeter firewall and deep into the internal network.
 
 
-![alt text](image.png)
-
 
 ## DOS Attack Working
 
@@ -121,6 +119,3 @@ The public gateway proxy (DMZ-PROXY-NGINX) realizes the backend application serv
 - The internal server must allocate a dedicated, persistent system execution thread to every single connection it receives.
 
 - Security Audits to check and verify that the system is working and resistant from such attack is also assured.
-
-
-## Post Incident Activity
