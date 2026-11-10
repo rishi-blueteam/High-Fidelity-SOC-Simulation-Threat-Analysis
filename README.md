@@ -23,5 +23,3 @@ Designed and engineered a lightweight, containerised security testing architectu
 - 𝑶𝒓𝒈𝒂𝒏𝒊𝒛𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑪𝒐𝒏𝒕𝒆𝒙𝒕𝒖𝒂𝒍𝒊𝒔𝒂𝒕𝒊𝒐𝒏: Formulated a multi-tier corporate asset registry spanning distinct VLAN subnets, specifying internal IPs, external residential public ranges, MAC schemas, and user privileges for Hybrid, On-Premise, and WFH operational baselines. 
 
 - 𝑫𝒂𝒕𝒂 𝑽𝒂𝒍𝒊𝒅𝒂𝒕𝒊𝒐𝒏 & 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒓𝒂𝒍 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔: Acted as the primary Security Analyst to resolve schema matching, dynamic field mapping, and time zone synchronization constraints within Kibana Data Views.
-
-## SOC Enviornment Workin
