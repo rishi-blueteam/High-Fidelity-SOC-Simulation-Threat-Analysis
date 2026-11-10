@@ -5,7 +5,7 @@
 
 ## Architectual Setup
 
-![alt text](Labs/Architecture/Organization_Hierarchy.png)
+![alt text](Organization_Hierarchy.png)
 
 
 ### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐜𝐨𝐩𝐞 & 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
