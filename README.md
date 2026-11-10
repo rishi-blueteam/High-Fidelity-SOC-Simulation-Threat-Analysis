@@ -3,7 +3,7 @@
 
 
 
-## Architectual Setup
+## Architectural Setup
 
 ![alt text](Organization_Hierarchy.png)
 
