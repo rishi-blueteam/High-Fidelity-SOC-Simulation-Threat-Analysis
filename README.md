@@ -8,8 +8,17 @@
 
 ## SOC-Simulation Working
 
+
+
+### Part 1: Network Mapping 
 ![Kerberoasting SOC Simulation](./Attack-Simulation/Kerberoasting/SOC-Simulation-ezgif.com-video-to-gif-converter-1.gif)
 
+### Part 2: View the Alert & Investigate
+![Kerberoasting SOC Simulation](./Attack-Simulation/Kerberoasting/SOC-Simulation-ezgif.com-video-to-gif-converter-2.gif)
+
+### Part 3: Investigate, Document and Remidiate
+
+![Kerberoasting SOC Simulation](./Attack-Simulation/Kerberoasting/SOC-Simulation-ezgif.com-video-to-gif-converter.gif)
 
 
 ### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐜𝐨𝐩𝐞 & 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
