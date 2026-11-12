@@ -8,7 +8,8 @@
 
 ## SOC-Simulation Working
 
-![alt_text](https://github.com/rishi-blueteam/High-Fidelity-SOC-Simulation-Threat-Analysis/blob/main/Attack-Simulation/Kerberoasting/SOC-Simulation.mp4)
+[![Watch the demo video]([https://youtube.com)](https://youtube.com](https://drive.google.com/file/d/1OIauVRMaZ99P8ULKHvwSfkUkEYXnIhIS/view?usp=sharing))
+
 
 
 ### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐜𝐨𝐩𝐞 & 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
