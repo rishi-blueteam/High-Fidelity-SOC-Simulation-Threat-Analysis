@@ -2,17 +2,17 @@
 
 ## **Index**
 
-- **1. Kerberoasting - Classic Bulk Roasting incident**
-- **2. Timeline**
-- **3. Detection and Analysis**
-  - **3.1 Indicators of Compromise**
-  - **3.2 Reason for Escalation**
-  - **3.3 Reason for Verdict**
-- **4. Remediation Phase**
-  - **4.1 Containment**
-  - **4.2 Eradication**
-  - **4.3 Recovery**
-- **5. Post-Incident Activity**
+**1. Kerberoasting - Classic Bulk Roasting incident**
+**2. Timeline**
+**3. Detection and Analysis**
+  **3.1 Indicators of Compromise**
+  **3.2 Reason for Escalation**
+  **3.3 Reason for Verdict**
+**4. Remediation Phase**
+  **4.1 Containment**
+  **4.2 Eradication**
+  **4.3 Recovery**
+**5. Post-Incident Activity**
 
 ## **1. Kerberoasting - Classic Bulk Roasting incident**
 
