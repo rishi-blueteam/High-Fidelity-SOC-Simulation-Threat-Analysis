@@ -8,7 +8,7 @@
 
 ## SOC-Simulation Working
 
-[![Watch the demo video]([https://youtube.com)](https://youtube.com](https://drive.google.com/file/d/1OIauVRMaZ99P8ULKHvwSfkUkEYXnIhIS/view?usp=sharing))
+![Kerberoasting SOC Simulation](./Attack-Simulation/Kerberoasting/SOC-Simulation-ezgif.com-video-to-gif-converter-1.gif)
 
 
 
