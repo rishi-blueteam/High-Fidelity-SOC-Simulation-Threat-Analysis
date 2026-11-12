@@ -6,7 +6,7 @@
 ![alt text](Organization_Hierarchy.png)
 
 
-## SOC-Simulation Working
+## SOC-Simulation Workflow
 
 
 
@@ -21,7 +21,7 @@
 ![Kerberoasting SOC Simulation](./Attack-Simulation/Kerberoasting/SOC-Simulation-ezgif.com-video-to-gif-converter.gif)
 
 
-### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐜𝐨𝐩𝐞 & 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
+## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐜𝐨𝐩𝐞 & 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
 
 Designed and engineered a lightweight, containerised security testing architecture using 𝑫𝒐𝒄𝒌𝒆𝒓 𝑬𝒍𝒂𝒔𝒕𝒊𝒄𝒔𝒆𝒂𝒓𝒄𝒉, 𝒂𝒏𝒅 𝑲𝒊𝒃𝒂𝒏𝒂 to model enterprise-grade defensive environments. 
 
@@ -36,3 +36,9 @@ Designed and engineered a lightweight, containerised security testing architectu
 - 𝑶𝒓𝒈𝒂𝒏𝒊𝒛𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑪𝒐𝒏𝒕𝒆𝒙𝒕𝒖𝒂𝒍𝒊𝒔𝒂𝒕𝒊𝒐𝒏: Formulated a multi-tier corporate asset registry spanning distinct VLAN subnets, specifying internal IPs, external residential public ranges, MAC schemas, and user privileges for Hybrid, On-Premise, and WFH operational baselines. 
 
 - 𝑫𝒂𝒕𝒂 𝑽𝒂𝒍𝒊𝒅𝒂𝒕𝒊𝒐𝒏 & 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒓𝒂𝒍 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔: Acted as the primary Security Analyst to resolve schema matching, dynamic field mapping, and time zone synchronization constraints within Kibana Data Views.
+
+
+## Important Note
+
+Code shall be released later and will not be displayed at the moment due to multiple fine-tuning needed to be done. 
+
